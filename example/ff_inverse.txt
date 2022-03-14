@@ -1,0 +1,5 @@
+--input_path=/example
+--output_path=/example
+--stage=inverse
+--filename_list=x_train.fth
+--scaler_obj=x_train_scaler.pckl

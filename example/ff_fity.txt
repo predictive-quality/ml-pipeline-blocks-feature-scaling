@@ -1,0 +1,5 @@
+--input_path=/example
+--output_path=/example
+--stage=fit
+--filename_list=x_train.fth
+--method=MinMaxScaler

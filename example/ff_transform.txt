@@ -1,0 +1,5 @@
+--input_path=/example
+--output_path=/example
+--stage=transform
+--filename_list=x_test.fth
+--scaler_obj=x_train_scaler_obj.pckl
